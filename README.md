@@ -1,16 +1,18 @@
-### Hi there 👋
+# alert( 'Welcome! 🌎'); 
 
-<!--
-**JorgeVillalobos07/JorgeVillalobos07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a Software engineer dedicated to create and implement Web apps (using Microsoft Visual Studio).**
+- 💻 **.NET**
+- 💻 **.NET Core**
+- 💻 **C#**
+- 💻 **C++**
+- 💻 **MVC**
+- 💻 **Javascript**
+- 💻 **Jquery**
+- 💻 **SQL Server**
+- 💻 **Angular**
 
-Here are some ideas to get you started:
+**Feel free to follow me:**
+- 💼 My [Linkedin](http://www.linkedin.com/in/jorge-eduardo-villalobos-lópez-a1b496162 "Profile")
+- 📫 How to reach me: villalobosjorge.ing@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
